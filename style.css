@@ -1,0 +1,80 @@
+h1{
+    color:rgb(201, 36, 7);
+    display:flex;
+    justify-content: center;
+  }
+  h2{
+    color:rgb(17, 146, 0);
+  }
+  *{
+    background-color:rgb(83, 255, 189);
+  }
+  h4{
+    color:rgb(201, 36, 7);
+    display:flex;
+    justify-content: center;
+  }
+
+.bars{
+
+display:flex;
+justify-content:space-around;
+padding-left: 1500px;
+}
+.origami{
+  display:flex;
+justify-content:center;
+}
+.animal1{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+.animal2{
+  margin-left: 600px;
+  margin-right: 600px;
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+
+}
+.animal3{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+.templates{
+  display: flex;
+  justify-content: space-between;
+  flex-direction:row;
+ 
+}
+.cicada:hover a{
+  opacity:0.33;
+}
+.cicada h2{
+  position:relative;
+  opacity:0;
+  top:-150px;
+  left:60%;
+  transform:translate(-50%,-50%);
+
+}
+
+.cicada h4{
+  position:relative;
+  opacity:0;
+  top:0px;
+  left:250px;
+  transform:translate(-50%,-50%);
+
+}
+
+
+.cicada:hover h2{
+  opacity:1;
+}
+
+.cicada:hover h4{
+  opacity:1;
+}

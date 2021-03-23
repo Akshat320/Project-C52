@@ -1,0 +1,49 @@
+h1{
+    color:darkgreen;
+    display:flex;
+    justify-content: center;
+  }
+  h3{
+    color:rgb(125, 192, 24)
+  }
+  .bars{
+
+    display:flex;
+    justify-content:space-around;
+    }
+    .chamset1{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      margin:100px;
+    }
+    .chamset2{
+      display:flex;
+      justify-content: space-evenly;
+      flex-direction: row;
+      margin:100px;
+      margin-right: 200px;
+    }
+    .chamset3{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      margin:100px;
+    }
+
+    .chamset4{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      margin:100px;
+    }
+
+    .chamset5{
+      display:flex;
+      justify-content: center;
+      flex-direction: row;
+      margin:100px;
+    }
+    body{
+      background-color:#90ee90;
+      }

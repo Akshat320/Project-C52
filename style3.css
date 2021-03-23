@@ -1,0 +1,28 @@
+h1{
+    color:rgb(238, 204, 55);
+    display:flex;
+    justify-content: center;
+  }
+  h3{
+    color:rgb(216, 196, 84);
+  }
+  .bars{
+
+    display:flex;
+    justify-content:space-around;
+    }
+    .camset1,.camset2,.camset3,.camset4,.camset5,.camset6{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      margin:100px;
+    }
+    .camset7{
+      display:flex;
+      justify-content: center;
+      flex-direction: row;
+      margin:100px;
+    }
+    body{
+      background-color: rgb(255, 241, 159);
+    }

@@ -1,0 +1,45 @@
+
+h1{
+    color:rgb(192, 145, 17);
+    display:flex;
+    justify-content: center;    
+}
+h3{
+    color:rgb(240, 184, 32);
+}
+.bars{
+
+    display:flex;
+    justify-content:space-around;
+    }
+    .cicset1{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      margin: 100px;
+    }
+    .cicset2{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      margin: 100px;
+    }
+    .cicset3{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+      margin: 100px;
+      margin-right: 310px;
+      margin-left: 100px;
+    }
+    .cicset4{
+        display:flex;
+        justify-content: center;
+        flex-direction: row;
+        margin-left: 100px;
+        margin-right: 50px;
+      }
+
+  body{
+    background-color:#ffebcd;
+  }

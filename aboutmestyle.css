@@ -1,0 +1,19 @@
+h2{
+
+    color:rgb(207, 40, 28);
+    display:flex;
+
+}
+.bars{
+
+    display:flex;
+justify-content:space-around;
+}
+*{
+    background-color:rgb(135, 235, 230)
+}
+.img{
+
+    display:flex;
+    justify-content:flex-end;
+}

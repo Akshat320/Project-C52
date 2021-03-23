@@ -1,0 +1,29 @@
+h1{
+    color:rgb(204, 157, 26);
+    display:flex;
+    justify-content: center;
+  }
+  h3{
+    color:rgb(255, 195, 30);
+  }
+  .bars{
+
+    display:flex;
+    justify-content:space-around;
+    }
+  .bearset1, .bearset2,.bearset3,.bearset4,.bearset5{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin:100px; 
+  }
+
+  .bearset6{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    margin:100px; 
+  }
+  body{
+    background-color: #ffebcd;
+  }
